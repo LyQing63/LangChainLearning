@@ -1,0 +1,11 @@
+langgraph
+langgraph-sdk
+langsmith
+langchain-community
+langchain-core~=0.3.47
+langchain-openai
+notebook
+python-dotenv
+langchain-google-genai~=2.1.0
+pydantic~=2.10.6
+langchain~=0.3.21
